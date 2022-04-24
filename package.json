@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "express": "^4.17.3"
-  }
+    "express": "^4.17.3",
+    "util": "^0.12.4",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "note-taker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robcabobb/note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robcabobb/note-taker/issues"
+  },
+  "homepage": "https://github.com/Robcabobb/note-taker#readme"
 }

@@ -5,10 +5,12 @@ router.get('/notes', (req, res) {
 
 })
 
+// POST request
 router.post('/notes', (req, res) => {
 
 })
 
+// DELETE request
 router.delete('/notes/:id', (req, res) {
 
 })
