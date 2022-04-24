@@ -22,6 +22,11 @@ Fork this project from my repo and then run npm install in the root of the direc
 ## Screenshot
 
 
+<img width="1440" alt="Screen Shot 2022-04-24 at 7 13 11 AM" src="https://user-images.githubusercontent.com/80990468/164973737-87ce294f-09a1-4ae7-aa74-7b48a7703b41.png">
+
+
+
+
 ## Usage
 So that users are able to take notes, update them and remove after use.
 
