@@ -32,6 +32,6 @@ So that users are able to take notes, update them and remove after use.
 
 ## Questions
 ### if you have any questions, please don't hesitate to reach out to me at
-### Github: https://github.com/robcabobb
+### Github: https://github.com/robbieevans1
 ### or
 ### Email: Robert.m.evans3@gmail.com
